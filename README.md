@@ -1,1 +1,1 @@
-Using Genetic Algo to solve 0/1 Knapsack problem
+Using multiple ways to solve 0/1 Knapsack problem
